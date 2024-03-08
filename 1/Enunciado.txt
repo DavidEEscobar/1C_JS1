@@ -1,0 +1,16 @@
+El trabajo consiste en una pagina la cual toma una frase y luego en base a los siguientes criterios regresa la palabra "escrito" o "ESGRITO"
+
+
+CRITERIOS:
+
+-si la frase tiene mas letras que signos de exclamacion devuelve "escrito"
+
+-si la frase tiene mas signos de exclamacion que letras devuelve "ESCRITO"
+
+-los numeros y otros caracteres especiales no cuentan como letras
+
+EJEMPLOS:
+hola!!!!! = ESGRITO
+:)! = ESGRITO
+22! = ESGRITO
+hola!! = escrito
